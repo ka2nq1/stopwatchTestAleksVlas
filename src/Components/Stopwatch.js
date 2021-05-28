@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import {interval} from 'rxjs'
 import StopwatchStyles from './StopwatchStyles'
 
 class Stopwatch extends Component {
