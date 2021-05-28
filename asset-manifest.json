@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/stopwatchTestAleksVlas/static/js/main.60fa92a0.chunk.js",
+    "main.js.map": "/stopwatchTestAleksVlas/static/js/main.60fa92a0.chunk.js.map",
+    "runtime-main.js": "/stopwatchTestAleksVlas/static/js/runtime-main.c8e84ed5.js",
+    "runtime-main.js.map": "/stopwatchTestAleksVlas/static/js/runtime-main.c8e84ed5.js.map",
+    "static/js/2.4bca8751.chunk.js": "/stopwatchTestAleksVlas/static/js/2.4bca8751.chunk.js",
+    "static/js/2.4bca8751.chunk.js.map": "/stopwatchTestAleksVlas/static/js/2.4bca8751.chunk.js.map",
+    "index.html": "/stopwatchTestAleksVlas/index.html",
+    "static/js/2.4bca8751.chunk.js.LICENSE.txt": "/stopwatchTestAleksVlas/static/js/2.4bca8751.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8e84ed5.js",
+    "static/js/2.4bca8751.chunk.js",
+    "static/js/main.60fa92a0.chunk.js"
+  ]
+}
